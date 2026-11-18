@@ -103,31 +103,31 @@ The recovered password was then used to open the supplied PDF document successfu
 
 **Johnny Installation and Configuration**
 
-![John Installation](screenshots/module-2-networkwalks/johnny-launch.png)
+![John Installation](screenshots/module-1-jtr/johnny-launch.png)
 
 **John Executable Configuration**
 
-![John Executable](screenshots/module-1-jtr/02-john-executable-configuration.png)
+![John Executable](screenshots/module-1-jtr/johnny_executable.png)
 
 **PDF Hash Extraction**
 
-![PDF Hash Extraction](screenshots/module-1-jtr/03-pdf-hash-extraction.png)
+![PDF Hash Extraction](screenshots/module-1-jtr/pdfhash.png)
 
 **Hash File Preparation**
 
-![Hash File Creation](screenshots/module-1-jtr/04-hash-file-creation.png)
+![Hash File Creation](screenshots/module-1-jtr/hashfile.png)
 
 **Loading the Hash into Johnny**
 
-![Johnny Password File](screenshots/module-1-jtr/05-johnny-password-file.png)
+![Johnny Password File](screenshots/module-1-jtr/hashupload.png)
 
 **Password Recovery Process**
 
-![Password Cracking](screenshots/module-1-jtr/06-password-cracking-process.png)
+![Password Cracking](screenshots/module-1-jtr/hashcracked.png)
 
 **Recovered Password**
 
-![Recovered Password](screenshots/module-1-jtr/07-password-recovered.png)
+![Recovered Password](screenshots/module-1-jtr/hash1.png)
 
 ---
 
