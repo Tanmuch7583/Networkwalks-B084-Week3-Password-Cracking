@@ -160,7 +160,7 @@ Unlike the first exercise, this approach did not require installing John the Rip
 
 The exercise followed these steps:
 
-1. Downloaded the supplied encrypted PDF file, `My Locked PDF1.pdf`.
+1. Downloaded the supplied encrypted PDF file, `My Locked PDF2.pdf`.
 2. Opened the Networkwalks Hash Calculator.
 3. Uploaded the protected PDF document.
 4. Extracted and copied the generated hash value.
