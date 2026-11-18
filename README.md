@@ -43,7 +43,7 @@ Both exercises involved recovering the password of a supplied password-protected
 | Module 1 Hash Extraction | Online PDF Hash Extractor |
 | Module 2 Hash Extraction | Networkwalks Hash Calculator |
 | Module 2 Password Recovery | Networkwalks Password Cracker |
-| Target File | My Locked PDF1.pdf |
+| Target File | My Locked PDF1 & 2.pdf |
 | Practical Environment | Controlled educational lab |
 
 ## 🔧 Module 1: Password Cracking with John the Ripper (JTR)
@@ -180,27 +180,27 @@ The password recovery process was successful. The recovered password was used to
 
 **Protected PDF Document**
 
-![Locked PDF](screenshots/module-2-networkwalks/01-locked-pdf.png)
+![Locked PDF](screenshots/module-2-networkwalks/pdf2locked.png)
 
 **Networkwalks Hash Calculator**
 
-![Hash Calculator](screenshots/module-2-networkwalks/02-hash-calculator.png)
+![Hash Calculator](screenshots/module-2-networkwalks/hash_calculator.png)
 
 **Extracted PDF Hash**
 
-![Extracted Hash](screenshots/module-2-networkwalks/03-extracted-pdf-hash.png)
+![Extracted Hash](screenshots/module-2-networkwalks/pdf2hash.png)
 
 **Networkwalks Password Cracker**
 
-![Password Cracker](screenshots/module-2-networkwalks/04-password-cracker.png)
+![Password Cracker](screenshots/module-2-networkwalks/password_cracker.png)
 
 **Password Recovery Result**
 
-![Cracking Result](screenshots/module-2-networkwalks/05-cracking-result.png)
+![Cracking Result](screenshots/module-2-networkwalks/password_cracked.png)
 
 **Successfully Unlocked PDF**
 
-![Unlocked PDF](screenshots/module-2-networkwalks/06-pdf-unlocked.png)
+![Unlocked PDF](screenshots/module-2-networkwalks/hash2.png)
 
 ---
 
@@ -264,7 +264,7 @@ Cybersecurity Learner | Networkwalks Cohort B084
 
 [GitHub Profile](https://github.com/Tanmuch7583)
 
-[LinkedIn Profile](YOUR_LINKEDIN_URL)
+[LinkedIn Profile](www.linkedin.com/in/tanaka-mushedhe-334b442b0)
 
 ---
 
