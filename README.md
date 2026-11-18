@@ -103,7 +103,7 @@ The recovered password was then used to open the supplied PDF document successfu
 
 **Johnny Installation and Configuration**
 
-![Johnny Installation](screenshots/module-1-jtr/01-johnny-installation.png)
+![John Installation](screenshots/module 2-networkwalks_tools/johnny-launch.png)
 
 **John Executable Configuration**
 
